@@ -1,4 +1,4 @@
-## Poner codigo en GitHub
+# Poner codigo en GitHub
 - Ejemplo de como poner codigo en github tienes que usar ```seguido del lenguaje en mi caso php y para finalizar tienes que volver a usar las tres comillas:
 
 ```php
