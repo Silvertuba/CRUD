@@ -1,4 +1,5 @@
-
+> # CRUD ARTICULOS 
+>
 **Connection:**
 
 Este código PHP intenta conectarse a una base de datos MySQL utilizando PDO. Si la conexión es exitosa, la instancia de PDO ($conn) se puede utilizar para realizar consultas y operaciones en la base de datos. Si hay algún problema durante la conexión, se captura la excepción y se imprime un mensaje de error.
