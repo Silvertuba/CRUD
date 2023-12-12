@@ -1,0 +1,4 @@
+**Connection**
+Este código PHP y HTML permite la actualización de información de un artículo, incluyendo la posibilidad de cargar una nueva imagen. 
+Los mensajes de éxito o error se presentan de manera visual y amigable para el usuario. La estructura de la página sigue un diseño basado en Bootstrap.
+
