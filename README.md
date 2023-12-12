@@ -113,5 +113,29 @@ if (isset($_GET['id'])) {
 }
 ?>
 ```
+**Footer**
 
+Este fragmento de código cierra la estructura básica de una página HTML y carga el archivo JavaScript de Bootstrap para aprovechar las funcionalidades proporcionadas por este framework en la parte de interactividad y diseño.
+```php
+</div> <!--Cierra la clase container-->
+    <script src="Bootstrap/js/bootstrap.min.js"></script>
+  </body>
+</html>
+```
 
+**Header**
+
+Este código establece la estructura inicial de una página HTML, enlaza hojas de estilo de Bootstrap para mejorar el diseño y la apariencia, y comienza el área de contenido visible dentro de un contenedor.
+```php
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="Bootstrap/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="Bootstrap/icons/bootstrap-icons.min.css">
+    <title>Sistema web</title>
+  </head>
+  <body>
+    <div class="container">
+```
